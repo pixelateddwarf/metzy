@@ -1,0 +1,10 @@
+/Users/justme/.rbenv/versions/2.0.0-p353/bin/ruby -r ./siteconf20150419-20480-14lobcz.rb extconf.rb 
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install
+installing default libraries
