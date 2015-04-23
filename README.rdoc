@@ -2,6 +2,7 @@
 
 This application is an Etsy clone - Note it is NOT a production application. 
 
+Use caution, but have fun and share the wealth back!
 
 Please feel free to fork this project if you want to.
 
